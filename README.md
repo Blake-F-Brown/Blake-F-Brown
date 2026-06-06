@@ -1,7 +1,11 @@
 # 💫 About Me:
 Hello World, I'm Blake 👋<br><br>"Build boldly. Learn relentlessly. Progress Inevitability."<br><br>⚡Electrical & Computer Engineering minoring in Computer Science and Robotics @ Princeton University  <br>🤖 Robotics • AI • Embedded Systems • Computer Vision • Machine Learning<br>🏆 Gates Scholar | QuestBridge Scholar<br><br>From training machine learning models on medieval Ethiopian manuscripts to developing autonomous robotic platforms, I enjoy using what I've learned to My work spans robotics, computer vision, embedded systems, digital fabrication, and research-driven engineering.<br><br>What I'm Currently Developing <br>-Autonomous robotic navigation using Arduino + PixyCam  <br>-Industrial robotic arm motion planning with ROS2 & MoveIt  <br>-Machine learning pipelines for image clustering and pattern discovery  <br>-Hardware design, computer architecture, and embedded systems projects<br><br>Technical Toolbox<br>Languages: Java, Python, C, Verilog  <br>Frameworks: React, Flask, FastAPI, Node.js  <br>Robotics: ROS2, Gazebo, MoveIt, Arduino  <br>AI/ML: CLIP, BLIP, ImageNet, UMAP, NumPy, Pandas  <br>Hardware: Digital Logic Design, Computer Architecture, IC Analysis<br><br>📫 blake.brown@princeton.edu
 
-![My GitGarden Card](https://gitgarden-production.up.railway.app/api/card/Blake-F-Brown)
+<div align="center">
+
+<img src="https://gitgarden-production.up.railway.app/api/card/Blake-F-Brown" alt="Blake Brown GitGarden Card" />
+
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Blake-F-Brown) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Blake.brown@princeton.edu) 
 
